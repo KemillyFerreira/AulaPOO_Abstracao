@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\bin\Debug\netcoreapp3.1\Abstração.exe
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\bin\Debug\netcoreapp3.1\Abstração.deps.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\bin\Debug\netcoreapp3.1\Abstração.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\bin\Debug\netcoreapp3.1\Abstração.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\bin\Debug\netcoreapp3.1\Abstração.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\bin\Debug\netcoreapp3.1\Abstração.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\obj\Debug\netcoreapp3.1\Abstração.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\obj\Debug\netcoreapp3.1\Abstração.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\obj\Debug\netcoreapp3.1\Abstração.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\obj\Debug\netcoreapp3.1\Abstração.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\obj\Debug\netcoreapp3.1\Abstração.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\obj\Debug\netcoreapp3.1\Abstração.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Abstração\obj\Debug\netcoreapp3.1\Abstração.genruntimeconfig.cache
